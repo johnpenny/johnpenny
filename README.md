@@ -10,12 +10,12 @@ I am currently working on my own B2C apps, but I am interested in contract and e
 
 ### Professional Experience
 * Unity interactive media and game development since 2015.
-  * 3D and some 3D animation
-  * 2D and 2D animation
   * App design and development, all aspects
   * UI
   * Gameplay
   * Shader programming
+  * 2D and 2D animation
+  * 3D and some 3D animation
 * Graphic design, illustration, and animation since 2003.
   * Content for both web/devices and print
   * Branding
