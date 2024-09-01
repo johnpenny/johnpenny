@@ -1,14 +1,22 @@
-# John Penny Development & Design
-
-### Profile
+# John Penny — Development & Design
 I am a programmer and artist with a life-long interest in computing; especially interactive media. I have been making art, programming, and creating games since I was a child. I have an extremely wide range of experience with all things visual and interactive.
 
-### Current Focus
-Unity based interactive media. Development, design, and all other aspects. 
+> [!NOTE]  
+> I am interested in all contract and employment opportunities; especially those using Unity or Godot4 (Mono).
 
-I am currently working on my own B2C apps, but I am interested in contract and employment opportunities.
+##### Contact
+johnpenny+work@gmail.com 
 
-### Professional Experience
+##### Web
+[johnpenny.uk](//johnpenny.uk)
+
+
+## Current Professional Focus
+* Unity based interactive media. Development, design, and all other aspects. 
+* _Learning_ Godot4 (Mono) based interactive media. Development, design, and all other aspects.
+
+
+## Professional Experience
 * Unity interactive media and game development since 2015.
   * App design and development, all aspects
   * UI
@@ -28,11 +36,6 @@ I am currently working on my own B2C apps, but I am interested in contract and e
   * Animation
   * UI design
   * Copy, content, and graphics
-
-
-
-
-
 * Desktop VR Unity game development from 2015-2018 (Where I now use XR I am focussed on mobile apps/onboard apps).
   * HTC Vive
   * Oculus (DK, Rift)
@@ -49,7 +52,8 @@ I am currently working on my own B2C apps, but I am interested in contract and e
   * Server and service management, mostly large customer-facing websites
   * Plugin and extension development for unique customer needs; PHP, C# (ASP.NET)
 
-### Core Program Skill Levels
+
+## Core Program Skill Levels
 * Adobe Ps, Ai, (Advanced); Id (Mid)
 * Affinity Photo, Designer (Advanced); Publisher (Mid)
 * Unity (Advanced)
@@ -57,11 +61,16 @@ I am currently working on my own B2C apps, but I am interested in contract and e
 * Git (Mid)
 * Many others at a working level
 
-### Education
+
+## Education
 2011: BA Honours 1st Class; Animation & Illustration. Coventry University. Focussed on interactive media design & development.
 
-##### Contact
-johnpenny+work@gmail.com 
 
-##### Web
-[johnpenny.uk](//johnpenny.uk)
+## Currently Learning
+* Godot4 (Mono) interactive media and game development since 2023.
+  * App design and development, all aspects
+  * UI
+  * Gameplay
+  * Shader programming
+  * 2D and 2D animation
+  * 3D and some 3D animation
