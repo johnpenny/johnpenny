@@ -2,7 +2,7 @@
 I am a programmer and artist with a life-long interest in computing; especially interactive media. I have been making art, programming, and creating games since I was a child. I have an extremely wide range of experience with all things visual and interactive.
 
 > [!NOTE]  
-> I am interested in all contract and employment opportunities; especially those using Unity or Godot4 (Mono).
+> I am interested in all contract and employment opportunities; especially those using Unity engine.
 
 ##### Contact
 johnpenny+work@gmail.com 
@@ -13,7 +13,6 @@ johnpenny+work@gmail.com
 
 ## Current Professional Focus
 * Unity based interactive media. Development, design, and all other aspects. 
-* _Learning_ Godot4 (Mono) based interactive media. Development, design, and all other aspects.
 
 
 ## Professional Experience
@@ -53,10 +52,10 @@ johnpenny+work@gmail.com
   * Plugin and extension development for unique customer needs; PHP, C# (ASP.NET)
 
 
-## Core Program Skill Levels
-* Adobe Ps, Ai, (Advanced); Id (Mid)
+## App Skill Levels
+* Unity engine (Advanced)
 * Affinity Photo, Designer (Advanced); Publisher (Mid)
-* Unity (Advanced)
+* Adobe Ps, Ai, (Advanced); Id (Mid)
 * Blender (Mid)
 * Git (Mid)
 * Many others at a working level
@@ -64,13 +63,3 @@ johnpenny+work@gmail.com
 
 ## Education
 2011: BA Honours 1st Class; Animation & Illustration. Coventry University. Focussed on interactive media design & development.
-
-
-## Currently Learning
-* Godot4 (Mono) interactive media and game development since 2023.
-  * App design and development, all aspects
-  * UI
-  * Gameplay
-  * Shader programming
-  * 2D and 2D animation
-  * 3D and some 3D animation
