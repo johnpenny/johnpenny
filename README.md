@@ -73,9 +73,5 @@ johnpenny+work@gmail.com
 * Git (Mid)
 * Many others at a working level
 
-
-## Programming Skill Levels
-I have extensive experience in C#, with working knowledge of C, C++, Java, Objective-C, PHP; Experience in JS, Python, Lua, and Swift. I am not particularly wed to any language or pattern, but undoubtedly have written more C# than any other language, with a medium leaning on .NET; My focus is always on context-relevant solutions.
-
 ## Education
 2011: BA Honours 1st Class; Animation & Illustration. Coventry University. Focussed on interactive media design & development.
